@@ -1,0 +1,24 @@
+{
+  "id": "4f209551-8e78-4088-abe3-4104a2733920",
+  "collaborators": [
+    {
+      "id": "3db7ea38-3e0f-4f0b-a82d-7ce90b63cdc2",
+      "role": "developer",
+      "githubUsername": "LostInStatic"
+    },
+    {
+      "id": "17da98c8-a6f6-4b26-850f-580ce2878f9b",
+      "githubUsername": "karczewskiPiotr",
+      "role": "editor"
+    }
+  ],
+  "description": "",
+  "name": "test 5567",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": false,
+  "imagePath": "cover.jpg",
+  "creationDate": 1661947829114,
+  "tags": [],
+  "snippets": []
+}
